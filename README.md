@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying mode Javascript and Golang
+I'm currently studying Javascript and Golang
 
 
 ## 🌐 Socials:
