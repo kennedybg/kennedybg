@@ -15,7 +15,6 @@ I'm a Fullstack software engineer with almost six years of experience.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/knd.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kennedybg) 
 
 # 📊 GitHub Stats:
-https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kennedybg&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedybg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
